@@ -32,7 +32,7 @@ namespace CslAppOperatorConvertion
             {
                 //
             }
-            Console.WriteLine(so0);
+            Console.WriteLine(so0); 
         }
     }
 }
