@@ -17,13 +17,3 @@
         }
     }
 }
-
-        //public static Source operator +(Source s1, Source s2)
-        //{
-        //    return new Source(s1.Code + s2.Code);
-        //}
-
-        //public static Source operator -(Source s1, Source s2)
-        //{
-        //    return new Source(s1.Code + s2.Code);
-        //}
